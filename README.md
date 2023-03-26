@@ -4,7 +4,7 @@ Inside this repository are some Python and Pandas examples that are good for peo
 
 # Files
 
-[excel_files.ipynb] (./excel_files.ipynb)
+[excel_files.ipynb](./excel_files.ipynb)
 
 Basic features to read properly an excel file.
 
