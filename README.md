@@ -4,11 +4,11 @@ Inside this repository are some Python and Pandas examples that are good for peo
 
 # Files
 
-[##excel_files.ipynb](./excel_files.ipynb)
+##[excel_files.ipynb](./excel_files.ipynb)
 
 Basic features to read properly an excel file.
 
-[##pandas_tricks.ipynb](./pandas_tricks.ipynb)
+[pandas_tricks.ipynb](./pandas_tricks.ipynb)
 
 Here are a lot of ways to use python and pandas to improve your coding skills. Most of them are usefull when working with dates and big data frames.
 
